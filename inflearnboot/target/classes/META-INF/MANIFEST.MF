@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: MIN
+Build-Jdk: 15.0.1
+Implementation-Title: springbootgettingstarted
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: springbootwithinflearn
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/inflearnboot
+Created-By: Maven Integration for Eclipse
+
